@@ -2,6 +2,8 @@
 A tool for the game Loop Hero to plan tile placements and find efficient setups.  
 
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/toolButton.png)](https://wildryce.github.io/loopheromanager/)
+[![](https://github.com/wildryce/loopheromanager/blob/main/Misc/layoutsButton.png)](https://github.com/wildryce/loopheromanager/blob/main/LAYOUTCODES.md)
+[![](https://github.com/wildryce/loopheromanager/blob/main/Misc/updatesButton.png)](https://github.com/wildryce/loopheromanager/projects/1)
 
 [Click here](https://github.com/wildryce/loopheromanager/blob/main/LAYOUTCODES.md) to access a list of preset codes.
 ##
