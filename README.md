@@ -1,6 +1,7 @@
-# Loop Hero Manager
+# [Loop Hero Manager](https://wildryce.github.io/loopheromanager/)
 A tool for the game Loop Hero to plan tile placements and find efficient setups.  
 
+[Click here](https://wildryce.github.io/loopheromanager/) to access the tool!
 ##
 
 ### What It Is
