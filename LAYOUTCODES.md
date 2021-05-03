@@ -16,5 +16,5 @@ Codes that can be transferred into the tool using the **Import Map** button.
 
 
 ## Oasis + Thicket + Sand Dunes (5 columns)
-* **98.5% Attack Speed; -19% Enemy Attack Speed; -8% HP (All):** geccchbbbbbbbbbbbbbbbiccechbbbbbbbbbbbbbbbceccihbbbbbbbbbbbbbbbicceghbbbbbbbbbbbbbbbgiciihbbbbbbbbbbbbbbbicegihbbbbbbbbbbbbbbbceciihbbbbbbbbbbbbbbbicceghbbbbbbbbbbbbbbbgiciihbbbbbbbbbbbbbbbicegihbbbbbbbbbbbbbbbcecichbbbbbbbbbbbbbbbccigihbbbbbbbbbbbbbbb
-* **68% Attack Speed; -24% Enemy Attack Speed; -15% HP (All):** ccigghbbbbbbbbbbbbbbbcecighbbbbbbbbbbbbbbbicecihbbbbbbbbbbbbbbbgiceihbbbbbbbbbbbbbbbiecighbbbbbbbbbbbbbbbiceiihbbbbbbbbbbbbbbbgiigihbbbbbbbbbbbbbbbggigihbbbbbbbbbbbbbbbgiigihbbbbbbbbbbbbbbbiceiihbbbbbbbbbbbbbbbcecighbbbbbbbbbbbbbbbccigghbbbbbbbbbbbbbbb
+* **98.5% Attack Speed; -19% Enemy Attack Speed; -8% HP (All):** bbbbbbbhgeccchbbbbbbbbbbbbbbhiccechbbbbbbbbbbbbbbhceccihbbbbbbbbbbbbbbhicceghbbbbbbbbbbbbbbhgiciihbbbbbbbbbbbbbbhicegihbbbbbbbbbbbbbbhceciihbbbbbbbbbbbbbbhicceghbbbbbbbbbbbbbbhgiciihbbbbbbbbbbbbbbhicegihbbbbbbbbbbbbbbhcecichbbbbbbbbbbbbbbhccigihbbbbbbb
+* **68% Attack Speed; -24% Enemy Attack Speed; -15% HP (All):** bbbbbbbhccigghbbbbbbbbbbbbbbhcecighbbbbbbbbbbbbbbhicecihbbbbbbbbbbbbbbhgiceihbbbbbbbbbbbbbbhiecighbbbbbbbbbbbbbbhiceiihbbbbbbbbbbbbbbhgiigihbbbbbbbbbbbbbbhggigihbbbbbbbbbbbbbbhgiigihbbbbbbbbbbbbbbhiceiihbbbbbbbbbbbbbbhcecighbbbbbbbbbbbbbbhccigghbbbbbbb
