@@ -1,6 +1,8 @@
 # [Loop Hero Manager](https://wildryce.github.io/loopheromanager/)
 A tool for the game Loop Hero to plan tile placements and find efficient setups.  
 
+## _Currently outdated: Changes/Fixes/Additions soon_
+
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/toolButton.png)](https://wildryce.github.io/loopheromanager/)
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/layoutsButton.png)](https://github.com/wildryce/loopheromanager/blob/main/LAYOUTCODES.md)
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/updatesButton.png)](https://github.com/wildryce/loopheromanager/projects/1)
