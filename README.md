@@ -1,6 +1,8 @@
 # [Loop Hero Manager](https://wildryce.github.io/loopheromanager/)
 A tool for the game Loop Hero to plan tile placements and find efficient setups.  
 
+This tool is free to use, though if you would like to support this and future projects, I have a [Ko-fi page](https://ko-fi.com/S6S5DBXT2). 
+
 ## _Currently outdated: Changes/Fixes/Additions soon_
 
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/toolButton.png)](https://wildryce.github.io/loopheromanager/)
@@ -59,5 +61,3 @@ _Example of Images being used instead of colored tiles._
 
 # Thank you! 
 A huge thank you to all those who have given feedback and suggestions on what should be added, any math errors and more! It's been fun creating this project on the side, and although this started out as more of a small random project to try and recreate some of the game mechanics for fun, I feel that this tool can be useful to some people, including myself. More updates are planned to try an implement more synergy features, so if there are any suggestions I would love to hear them!
-
-If you would like to help support me and future projects, I have a [Kofi page](https://Ko-fi.com/wildryce). 
