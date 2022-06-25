@@ -15,6 +15,8 @@ This tool is free to use, though if you would like to support this and future pr
 
 This tool is designed to either be used in tangent with the game 'Loop Hero' to pre-plan a run, or for testing out layouts to find the best possible stats. Using some of the main stat-based tiles used within the game, finding the best setup for both regular and synergy-based tiles can help with aiming for a successful run.
 
+_DISCLAIMER: This tool does NOT take into account any items from the "Supply" menu, equipment in a run, or class selected, which can skew the amounts depending on what is equipped. This tool is only to give a general baseline of what to expect, and the final result in-game may be significantly higher/lower based on users setup._
+
 ##
 
 ### How To Use It
