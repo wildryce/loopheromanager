@@ -15,6 +15,6 @@ Codes that can be transferred into the tool using the **Import Map** button.
 * **Highest Attack Speed (234%):** bbbbbbbhccceehbbbbbbbbbbbbbbhceccehbbbbbbbbbbbbbbhccecchbbbbbbbbbbbbbbheccechbbbbbbbbbbbbbbhceccehbbbbbbbbbbbbbbhccecchbbbbbbbbbbbbbbheccechbbbbbbbbbbbbbbheecechbbbbbbbbbbbbbbheccechbbbbbbbbbbbbbbhccecchbbbbbbbbbbbbbbhceccehbbbbbbbbbbbbbbhccceehbbbbbbb
 
 
-## Oasis + Thicket + Sand Dunes (5 columns)
+## Oasis + Thicket + Sand Dunes (5 columns) [BEFORE MAQUIS ADDITION]
 * **98.5% Attack Speed; -19% Enemy Attack Speed; -8% HP (All):** bbbbbbbhgeccchbbbbbbbbbbbbbbhiccechbbbbbbbbbbbbbbhceccihbbbbbbbbbbbbbbhicceghbbbbbbbbbbbbbbhgiciihbbbbbbbbbbbbbbhicegihbbbbbbbbbbbbbbhceciihbbbbbbbbbbbbbbhicceghbbbbbbbbbbbbbbhgiciihbbbbbbbbbbbbbbhicegihbbbbbbbbbbbbbbhcecichbbbbbbbbbbbbbbhccigihbbbbbbb
 * **68% Attack Speed; -24% Enemy Attack Speed; -15% HP (All):** bbbbbbbhccigghbbbbbbbbbbbbbbhcecighbbbbbbbbbbbbbbhicecihbbbbbbbbbbbbbbhgiceihbbbbbbbbbbbbbbhiecighbbbbbbbbbbbbbbhiceiihbbbbbbbbbbbbbbhgiigihbbbbbbbbbbbbbbhggigihbbbbbbbbbbbbbbhgiigihbbbbbbbbbbbbbbhiceiihbbbbbbbbbbbbbbhcecighbbbbbbbbbbbbbbhccigghbbbbbbb
