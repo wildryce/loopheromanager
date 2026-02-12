@@ -3,7 +3,7 @@ A tool for the game Loop Hero to plan tile placements and find efficient setups.
 
 This tool is free to use, though if you would like to support this and future projects, I have a [Ko-fi page](https://ko-fi.com/S6S5DBXT2). 
 
-## _Outdated
+## _Outdated_
 
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/toolButton.png)](https://wildryce.github.io/loopheromanager/)
 [![](https://github.com/wildryce/loopheromanager/blob/main/Misc/layoutsButton.png)](https://github.com/wildryce/loopheromanager/blob/main/LAYOUTCODES.md)
